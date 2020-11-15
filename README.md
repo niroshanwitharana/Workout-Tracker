@@ -20,6 +20,7 @@ Workout Tracker is an online application, that user will be able to log multiple
 
  No need any installation. if you wants to download the app, then you will need to install MongoDB and npm install.
 
+
 ## Usage : 
 
 This is an user friendly application, you won't need any extra instructions.
@@ -30,7 +31,7 @@ Open source, No need a license.
 
 ## Contribute : 
 
-By Niro.
+No contributions
 
 ## Test : 
 
